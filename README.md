@@ -23,4 +23,4 @@ $ tree
   <ul><li>at least one header with text</li><li>at least 1 histogram</li><li>at least 1 scatter plot</li></ul></li></ul></div></section></section></section>
 
 
-  <b> NOTE:<b> The link to the app on Render is :  https://jude-hunt-sprint-4-ver-6.onrender.com
+  <b> NOTE:<b> The link to the app on Render is :   https://jude-hunt-sprint-4-ver-6.onrender.com
