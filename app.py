@@ -21,6 +21,9 @@ make_choice = st.selectbox('Select Manufacturer:', manufacturer_choice)
 
 #Range of Vehicle Ages
 min_year,max_year = (data['model_year'].min(), data['model_year'].max())
+min_year = int(min_year)
+max_year = int(max_year)
+
 year_range = st.slider(label = 'Choose Year', min_value=min_year, max_value=max_year, value=(min_year, max_year))
 
 
