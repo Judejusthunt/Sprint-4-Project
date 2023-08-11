@@ -21,3 +21,6 @@ $ tree
 └── .streamlit
     └── config.toml </code></pre><div></div></div></div></div><section class="scrollbar-default scrollbar scrollbar_vertical scrollable__scrollbar scrollable__scrollbar_type_vertical" style="--scrollbar-offset-size: 232px; --scrollbar-control-size: 216.83076923076925px; --scrollbar-control-container-size: 100%; --scrollbar-scale: 1; --scrollbar-control-offset: 0;"><div class="scrollbar__control-container"><div class="scrollbar__control"><div class="scrollbar__control-line"></div></div></div></section><section class="scrollbar-default scrollbar scrollbar_horizontal scrollbar_hidden scrollable__scrollbar scrollable__scrollbar_type_horizontal" size="1" style="--scrollbar-offset-size: 688px; --scrollbar-control-size: 688px; --scrollbar-control-container-size: 100%; --scrollbar-scale: 1; --scrollbar-control-offset: 0;"><div class="scrollbar__control-container"><div class="scrollbar__control"><div class="scrollbar__control-line"></div></div></div></section></div></div><ul><li>Is the web app accessible via a browser?</li><li>Does the web app contain the following?
   <ul><li>at least one header with text</li><li>at least 1 histogram</li><li>at least 1 scatter plot</li></ul></li></ul></div></section></section></section>
+
+
+  <b> NOTE:<b> The link to the app on Render is :  https://sprint-4-project-jude-hunt-5.onrender.com
